@@ -1,0 +1,25 @@
+D:\GM\WEB PROJECTS\GITHUB\HTML5\html5-dimension
+html5-dimension>pip install virtualenv
+>virtualenv venv
+> upgrade pip
+>venv>scripts>activate
+cd ..
+cd ..
+(venv) html5-dimension>pip install django
+(venv) do>python.exe -m pip install --upgrade pip
+(venv> do> pip freeze > requirements.txt
+
+cmd
+>html5-dimension > send to > compressed (zipped) folder
+
+pwa
+files
+upload
+html5-dimension.zip
+console
+bash
+mkvirtualenv django 4.1.1 --python=/usr/bin/python3.10.5
+
+
+
+
