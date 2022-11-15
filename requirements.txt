@@ -39,3 +39,4 @@ urllib3==1.26.12
 virtualenv==20.14.1
 waitress==2.1.2
 whitenoise==6.2.0
+requests
