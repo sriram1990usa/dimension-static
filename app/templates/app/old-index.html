@@ -1,0 +1,11 @@
+{% extends './base.html' %}
+{% load static %}
+				
+<p> from index.html </p>					
+<img src="{% static 'images/smile.png' %}" alt="pic03index1">	
+{% block content %}
+<img src="{% static 'images/smile.png' %}" alt="pic03index2">	
+{% endblock content %}				
+
+<!-- BG -->
+<div id="bg"></div>
